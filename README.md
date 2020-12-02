@@ -11,15 +11,15 @@ Input:  The first line contains T indicating test cases.Second line contains 2 i
 Output:  The minimum cost required to get K equal elements.  
 
 Constraints :  
-               1 ≤ T ≤ 100  
-               1 ≤ K ≤ N ≤100 
+               1 ≤ T ≤ 100 , 
+               1 ≤ K ≤ N ≤100 ,
                1 ≤ A[i] ≤100  
 
 SAMPLE INPUT  
-              1 
-              5  3 
+              1 ,
+              5  3  ,
               9 4 9 7 4 
              
-SAMPLE OUTPUT  6 
+SAMPLE OUTPUT   - 6 
 
 Explanation  : We can convert 7 to 9 to get three 9. The cost of this conversion will be 6.
